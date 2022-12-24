@@ -1,0 +1,19 @@
+{
+  "customer": [
+    {
+      "name": "N",
+      "empno": "101",
+      "email": "nilesh@gmail.co",
+      "lname": "s",
+      "userid": 2,
+      "id": 2
+    },
+    {
+      "name": "Vishal",
+      "lname": "Mane",
+      "empno": "103",
+      "email": "vishal@gmail.com",
+      "id": 3
+    }
+  ]
+}
